@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<language description="Spanish" ietf="es-ES" version="1.0.0">
+  <resources>
+    <resource name="label_AfterUpload">
+      Después de cargar
+    </resource>
+    <resource name="label_ShareLinkToClipBoard">
+      URL al portapeles
+    </resource>
+    <resource name="label_ShareShortLink">
+      Acortar la URL
+    </resource>
+
+    <resource name="Configure">
+      Configurar Google Drive
+    </resource>
+
+    <resource name="upload_menu_item">
+      Cargar a Google Drive (última carpeta)
+    </resource>
+    <resource name="upload_browse_menu_item">
+      Cargar a Google Drive (elegir carpeta)
+    </resource>
+
+    <resource name="settings_title">
+      Configuración de Google Drive
+    </resource>
+    <resource name="browse_title">
+      Cargar a Google Drive
+    </resource>
+    <resource name="button_folder_up">
+      &lt;
+    </resource>
+    <resource name="upload_success">
+      ¡Se cargó la imagen a Google Drive!
+    </resource>
+    <resource name="upload_failure">
+      Ha occurrido un error mientras se cargaba a Google Drive:
+    </resource>
+    <resource name="shortlink_failure">
+      No se ha podido crear el link corto.
+    </resource>
+    <resource name="label_upload_format">
+      Formato de imagen
+    </resource>
+    <resource name="communication_wait">
+      Comunicando con Google Drive. Por favor espere...
+    </resource>
+    <resource name="label_target_folder_id">
+      ID de Carpeta
+    </resource>
+    <resource name="label_remember_folder">
+      Recordar última carpeta
+    </resource>
+    <resource name="label_enable_comments">
+      Activa Comentarios
+    </resource>
+    <resource name="label_api_client_id">
+      API ID de Cliente
+    </resource>
+    <resource name="label_api_client_secret">
+      API Secreto
+    </resource>
+  </resources>
+</language>
